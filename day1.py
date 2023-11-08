@@ -1,0 +1,8 @@
+print("hello world", 7)
+print(5)
+print("Bye")
+print(17*13)
+print(3+3)
+print("Hi I am a good boy")
+print("hi i am a good boy")
+print("hey",6,6,7, sep="~",end=" ")
